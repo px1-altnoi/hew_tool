@@ -1,0 +1,5 @@
+$GRP_NAME = "Kurachi";
+$HIK_NAME = "TEST1";
+
+delete $GRP_NAME;
+delete $HIK_NAME;
